@@ -1,0 +1,1 @@
+Esta es la versión final del juego que desarrollé en el curso de Lógica de Programación en la plataforma Alura Latam. En este proyecto, trabajé con el DOM (HTML) y JavaScript, y utilicé recursividad para implementar algunas funcionalidades. Además, abordé varios desafíos propuestos durante el curso, aplicando los temas aprendidos.
