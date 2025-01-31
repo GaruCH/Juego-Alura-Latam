@@ -41,7 +41,8 @@ Este es el resultado final de mi juego desarrollado durante el curso de **Lógic
 
 ## 📸 Capturas de Pantalla
 
-
+![Captura de pantalla 1](/img/numero_secreto.png)
+*Prueba de funcionalidad de la pagina web*
 
 ## 📄 Licencia
 
